@@ -1,2 +1,2 @@
 # CODSOFT
-I make this repo for codsoft internship all my internship task is here.....!
+I made this repo for the codsoft internship all my internship tasks are here.....!
